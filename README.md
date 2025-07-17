@@ -39,26 +39,39 @@
   5.3	. Insight 3: All regression algorithms demonstrated poor performance metrics, indicating the need for improved feature selection and better preprocessing of     the dataset’s independent variables.
   5.4	. Polynomial algorithms easily overfit when you increase degrees. 
 6.	Results
-  6.1	 Classification Algorithms on Training: 
-  <img width="654" height="263" alt="image" src="https://github.com/user-attachments/assets/d7cbecb6-36f2-44e5-a217-49d4c0e7ac8c" />
+  6.1	 Classification Algorithms on Training:
+  	
+<img width="654" height="263" alt="image" src="https://github.com/user-attachments/assets/d7cbecb6-36f2-44e5-a217-49d4c0e7ac8c" />
+
 
   6.2	Classification Algorithms on Validation:
-  <img width="649" height="301" alt="image" src="https://github.com/user-attachments/assets/0e416e13-f6f7-41b8-9680-d728f4247dbc" />
+  
+<img width="649" height="301" alt="image" src="https://github.com/user-attachments/assets/0e416e13-f6f7-41b8-9680-d728f4247dbc" />
+
 
   6.3	Classification Algorithms on Test:
-  <img width="648" height="301" alt="image" src="https://github.com/user-attachments/assets/a957a0b6-a92a-4285-a63d-65f26a8cb06a" />
+  
+<img width="648" height="301" alt="image" src="https://github.com/user-attachments/assets/a957a0b6-a92a-4285-a63d-65f26a8cb06a" />
+
 
   6.4	Regression Algorithms on Training:
-  <img width="665" height="772" alt="image" src="https://github.com/user-attachments/assets/3b8a557c-95fd-403e-91a0-0b8d83fb8e17" />
+  
+<img width="665" height="772" alt="image" src="https://github.com/user-attachments/assets/3b8a557c-95fd-403e-91a0-0b8d83fb8e17" />
+
 
   6.5	Regression Algorithms on Validation
-  <img width="662" height="769" alt="image" src="https://github.com/user-attachments/assets/186b6559-1f12-4376-bf82-d3019b6e98cd" />
+  
+<img width="662" height="769" alt="image" src="https://github.com/user-attachments/assets/186b6559-1f12-4376-bf82-d3019b6e98cd" />
+
 
   6.6	Regression Algorithms on Test
-  <img width="659" height="769" alt="image" src="https://github.com/user-attachments/assets/00562d07-79f3-477b-aa3f-e606c2825193" />
+  
+<img width="659" height="769" alt="image" src="https://github.com/user-attachments/assets/00562d07-79f3-477b-aa3f-e606c2825193" />
+
 
   6.7	Clustering Algorithms
-  <img width="534" height="193" alt="image" src="https://github.com/user-attachments/assets/8c729b57-7328-4892-8619-4d1308d4294d" />
+  
+<img width="534" height="193" alt="image" src="https://github.com/user-attachments/assets/8c729b57-7328-4892-8619-4d1308d4294d" />
 
 
 7.	Conclusions
